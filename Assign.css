@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .wrapper{
+    width: 1170px;
+    margin: auto;    
+    }
+    header{
+        background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(155, 155, 155, 0.6)),url("back.jpg");
+        height: 100vh;
+        -webkit-background-size:cover;
+        background-size: cover; 
+        background-position: center center;
+        position: relative;
+    }
+    .nav-area{
+        float: left;
+        list-style: none;
+        margin-top: 30px;
+    }
+    .nav-area li{
+        display: inline-block;
+    }
+    .nav-area li a{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        padding: 5px 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 22px
+    }
+    .nav-area li a:hover{
+        background: #fff;
+        color: #333;
+    }
+    .logo img{
+        width: 150x;
+        float: left;
+        height: auto;
+    }
+    .logo img:hover{
+        background: #fff;
+        color: #333
+        ;
+    }
+
+    .nav-area{
+        float: left;
+        list-style: none;
+        margin-top: 30px;
+    }
+    .nav-area li{
+        display: inline-block;
+    }
+    .nav-area li a{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        padding: 5px 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 22px
+    }
+    .nav-area li a:hover{
+        background: #fff;
+        color: #333;
+    }
+   
+    .name1{
+        position: absolute;
+        margin: 15% 25%;
+        font-size: 12px;
+        color: rgb(255, 255, 255);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .name1 li{
+        display: inline-block;
+    }
+    .name1 li a{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        padding: 5px 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 22px
+    }
+    .name1 li a:hover{
+        background: #fff;
+        color: #333;
+    }
